@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Devcade;
 
-namespace DevcadeGame
+namespace papasBageleria
 {
 	public class Game1 : Game
 	{
